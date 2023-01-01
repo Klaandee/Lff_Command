@@ -1,0 +1,11 @@
+name: Lff_HCF
+main: Klande\Lff\Main
+author: Klande
+api: 3.0.0
+version: 1.0
+description: Comando Lff para servidores HCF
+
+commands:
+  lff:
+   description: "Pedir que te recluten."
+   permission: Lff.cmd
